@@ -36,11 +36,13 @@ Gender: Predominantly male.
 Race: White dominates, Native Hawaiian and American Indian least common.
 Age: 20-57 years old, with majority falling between 25-44.
 Location: Primarily headquarters-based.
+
 Employment Trends:
 
 Termination: Average tenure for terminated employees is around 8 years.
 Turnover: Highest in Marketing and Training, lowest in Research & Development, Support, and Legal.
 Growth: Net change in employees has increased over time.
+
 Departmental Insights:
 
 Size: Most employees in Operations, followed by Support.
