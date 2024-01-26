@@ -47,9 +47,3 @@ Departmental Insights:
 
 Size: Most employees in Operations, followed by Support.
 Tenure: Average tenure across departments is 8 years, with Legal and Auditing highest, Services, Sales and Marketing lowest.
-
-Additional Notes:
-
-Consider adding specific numbers or percentages where helpful (e.g., "X% of employees are 25-34 years old").
-Organize information by theme or importance for better flow.
-Use concise and descriptive language.
